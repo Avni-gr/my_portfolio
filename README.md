@@ -1,22 +1,37 @@
 # my_portfolio
-As a beginner it is my first portfolio in which i have added few sections which tell about my skills and works.
+I have recently created a repository for my personal portfolio website, which showcases my skills, projects, and contact information. The website is designed to provide a professional and engaging introduction to myself and my work as a programmer.
 
-# Portfolio
-As a beginner i have created a Personal profolio learnt by Angela yu's course. 
+### Table of contents
 
-Personal Portfolio Readme
-This is my personal portfolio website. It showcases my skills, projects and experiences. It is built using HTML, CSS.
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
 
-see on brower: https://avni-gr.github.io/my_portfolio/
+## Overview
 
-Usage
-You can use this portfolio to showcase your skills, projects and experiences. You can customize the portfolio by modifying the HTML, CSS and JavaScript files.
+### Screenshot
 
-Features
-The portfolio includes the following features:
+![](https://github.com/Avni-gr/QR-Code-for-Front-end-mentor/blob/main/Screenshot%20(8).png)
 
-Responsive design
-About section
-Skills section
-Contact form
-Credits
+### Links
+
+- Live Site URL: (https://avni-gr.github.io/my_portfolio/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+
+## Author
+
+- Linkedin - [Avni Gour](https://www.linkedin.com/in/avni-gour-aa2375201/)
+- Frontend Mentor - [@Avni-gr](https://www.frontendmentor.io/profile/Avni-gr)
+
+
+
+
+

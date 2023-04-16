@@ -7,7 +7,7 @@ As a beginner i have created a Personal profolio learnt by Angela yu's course.
 Personal Portfolio Readme
 This is my personal portfolio website. It showcases my skills, projects and experiences. It is built using HTML, CSS.
 
-see on brower: 
+see on brower: https://avni-gr.github.io/my_portfolio/
 
 Usage
 You can use this portfolio to showcase your skills, projects and experiences. You can customize the portfolio by modifying the HTML, CSS and JavaScript files.

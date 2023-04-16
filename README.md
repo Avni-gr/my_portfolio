@@ -14,7 +14,7 @@ I have recently created a repository for my personal portfolio website, which sh
 ### Screenshot
 
 ![](https://github.com/Avni-gr/my_portfolio/blob/main/Screenshot%20(8).png?raw=true)
-![](https://github.com/Avni-gr/my_portfolio/blob/main/Screenshot%20(8).png?raw=true)
+![](https://github.com/Avni-gr/my_portfolio/blob/main/Screenshot%20(9).png)
 ![](https://github.com/Avni-gr/my_portfolio/blob/main/Screenshot%20(8).png?raw=true)
 ![](https://github.com/Avni-gr/my_portfolio/blob/main/Screenshot%20(8).png?raw=true)
 

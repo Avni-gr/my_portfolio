@@ -13,7 +13,10 @@ I have recently created a repository for my personal portfolio website, which sh
 
 ### Screenshot
 
-![](https://github.com/Avni-gr/QR-Code-for-Front-end-mentor/blob/main/Screenshot%20(8).png)
+![](https://github.com/Avni-gr/my_portfolio/blob/main/Screenshot%20(8).png?raw=true)
+![](https://github.com/Avni-gr/my_portfolio/blob/main/Screenshot%20(8).png?raw=true)
+![](https://github.com/Avni-gr/my_portfolio/blob/main/Screenshot%20(8).png?raw=true)
+![](https://github.com/Avni-gr/my_portfolio/blob/main/Screenshot%20(8).png?raw=true)
 
 ### Links
 
